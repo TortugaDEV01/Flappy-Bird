@@ -3,7 +3,7 @@ console.log(`[TortugaDEV] Flappy bird`);
 
 // Files
 const sound_HIT = new Audio()
-sound_HIT.src = './effects/hit.wav'
+sound_HIT.src = './hit.wav'
 const sprites = new Image()
 sprites.src = './sprites.png'
 
