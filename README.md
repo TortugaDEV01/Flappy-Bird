@@ -24,7 +24,7 @@ Este projeto é uma implementação do famoso jogo Flappy Bird, onde o jogador c
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/flappy-bird.git
+   git clone https://github.com/TortugaDEV01/Game-FlappyBird.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
