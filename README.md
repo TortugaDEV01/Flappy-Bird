@@ -28,7 +28,7 @@ Este projeto é uma implementação do famoso jogo Flappy Bird, onde o jogador c
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd flappy-bird
+   cd Game-FlappyBird
    ```
 3. Abra o arquivo `index.html` no seu navegador preferido.
 
