@@ -8,7 +8,7 @@ Este projeto é uma implementação do famoso jogo Flappy Bird, onde o jogador c
 
 ## Funcionalidades
 
-- Controle do pássaro com a tecla de espaço.
+- Controle do pássaro com o botão esquerdo do mouse.
 - Geração aleatória de canos.
 - Sistema de pontuação.
 - Detecção de colisão.
